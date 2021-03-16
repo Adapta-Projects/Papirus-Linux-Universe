@@ -10,8 +10,6 @@ Custom colors for folder icons for <a href="https://github.com/PapirusDevelopmen
   <img src="Images/image.png">
 </p>
 
-"auroragreen" "auroraorange" "aurorayellow" "frostblue4" "frostblue2" "auroramagenta" "aurorared" "frostblue3" "frostblue" "polarnight3" "polarnight1" "snowstorm1"
-
 <p align="center">
   <img src="https://img.shields.io/github/release/Adapta-Projects/Papirus-Linux-Universe?color=red&style=for-the-badge">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
