@@ -21,8 +21,6 @@ Custom colors for folder icons for <a href="https://github.com/PapirusDevelopmen
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br> </br>
-
 # Requeriments
 
  - <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus Icon Theme</a>
