@@ -3,7 +3,7 @@
 PREFIX="Icons"
 LOCAL="/usr/share/icons/Papirus"
 
-echo "Welcome to Papirus Custom Folder installer!"
+echo "Welcome to Papirus' Linux Universe installer!"
 echo "For better usage, run this script using root user!"
 
 echo -n "Did you previously install on the Papirus Nord version? (Type Y or N) "
